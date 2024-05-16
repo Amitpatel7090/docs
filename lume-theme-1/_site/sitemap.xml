@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>http://localhost:3000/</loc>
+    <lastmod>2024-05-16T04:54:41.306Z</lastmod>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>http://localhost:3000/helo/doc1/</loc>
+    <lastmod>2024-05-15T06:25:42.765Z</lastmod>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>http://localhost:3000/helo/hello/</loc>
+    <lastmod>2024-05-15T07:31:04.054Z</lastmod>
+    <priority>1</priority>
+  </url>
+</urlset>
